@@ -32,4 +32,4 @@ Previously, I explored *Python, and now I'm diving deeper into **backend develop
 ## 📫 Connect with Me
 
 - GitHub: [kavyanarala17](https://github.com/kavyanarala17)
-- LinkedIn: [Kavya Narala] (https://www.linkedin.com/in/kavya-narala-8264112a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
+- LinkedIn: [Kavya Narala]
