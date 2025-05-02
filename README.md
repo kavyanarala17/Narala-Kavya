@@ -29,13 +29,7 @@ Previously, I explored *Python, and now I'm diving deeper into **backend develop
 
 ---
 
-## 📈 GitHub Stats (optional if you want to include)
-
-![Kavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- LinkedIn: [YourLinkedInProfile] (add if available)
+- GitHub: [kavyanarala17](https://github.com/kavyanarala17)
+- LinkedIn: [Kavya Narala] (https://www.linkedin.com/in/kavya-narala-8264112a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
